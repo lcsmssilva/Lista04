@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\bin\Debug\net6.0\Lista04ATP.exe
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\bin\Debug\net6.0\Lista04ATP.deps.json
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\bin\Debug\net6.0\Lista04ATP.runtimeconfig.json
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\bin\Debug\net6.0\Lista04ATP.dll
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\bin\Debug\net6.0\Lista04ATP.pdb
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\Lista04ATP.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\Lista04ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\Lista04ATP.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\Lista04ATP.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\Lista04ATP.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\Lista04ATP.dll
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\refint\Lista04ATP.dll
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\Lista04ATP.pdb
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\Lista04ATP.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Lista04ATP\Lista04ATP\obj\Debug\net6.0\ref\Lista04ATP.dll
